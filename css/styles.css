@@ -28,10 +28,16 @@ body {
 
 .blog {
 	background-color: #CCC;
+	border-radius: 1.563em;
 	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
 	margin: 0 auto;
+	padding: 0.625em;
 	text-align: left;
     width: 75%;
+}
+
+.blog-img {
+	text-align: center;
 }
 
 #blog h1 {
