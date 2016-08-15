@@ -36,18 +36,23 @@ body {
     width: 75%;
 }
 
-.blog-img {
+.blog h1 {
+	display: block;
+	font-size: 2.5em;
 	text-align: center;
 }
 
-#blog h1 {
-	font-size: 2.5em;
-}
-
-#blog h2 {
+.blog h2 {
+	display: block;
 	font-size: 1.875em;
+	text-align: center;
 }
 
-#blog p {
+.blog p {
 	font-size: 0.875em;
+}
+
+.blog-img {
+	display: block;
+	margin: 0 auto;
 }
