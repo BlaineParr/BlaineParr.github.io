@@ -25,6 +25,19 @@ body {
     text-align: center;
 }
 
-#space-infiltrators {
-    text-align: center;
+#blog {
+	font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    width: 75%;
+}
+
+#blog h1 {
+	font-size: 2.5em;
+}
+
+#blog h2 {
+	font-size: 1.875em;
+}
+
+#blog p {
+	font-size: 0.875em;
 }
